@@ -1,0 +1,78 @@
+F:\GitHub\OOP-2021Q1-2\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.exe
+F:\GitHub\OOP-2021Q1-2\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.deps.json
+F:\GitHub\OOP-2021Q1-2\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.runtimeconfig.json
+F:\GitHub\OOP-2021Q1-2\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.runtimeconfig.dev.json
+F:\GitHub\OOP-2021Q1-2\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.dll
+F:\GitHub\OOP-2021Q1-2\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.pdb
+F:\GitHub\OOP-2021Q1-2\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.csprojAssemblyReference.cache
+F:\GitHub\OOP-2021Q1-2\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.csproj.GenerateResource.cache
+F:\GitHub\OOP-2021Q1-2\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.AssemblyInfoInputs.cache
+F:\GitHub\OOP-2021Q1-2\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.AssemblyInfo.cs
+F:\GitHub\OOP-2021Q1-2\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.csproj.CoreCompileInputs.cache
+F:\GitHub\OOP-2021Q1-2\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.dll
+F:\GitHub\OOP-2021Q1-2\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.pdb
+F:\GitHub\OOP-2021Q1-2\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.genruntimeconfig.cache
+F:\GitHub\OOP-2021Q1-2\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.Form1.resources
+C:\Users\Dima\Desktop\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.exe
+C:\Users\Dima\Desktop\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.deps.json
+C:\Users\Dima\Desktop\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.runtimeconfig.json
+C:\Users\Dima\Desktop\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.runtimeconfig.dev.json
+C:\Users\Dima\Desktop\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.dll
+C:\Users\Dima\Desktop\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.pdb
+C:\Users\Dima\Desktop\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.csprojAssemblyReference.cache
+C:\Users\Dima\Desktop\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.Form1.resources
+C:\Users\Dima\Desktop\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.csproj.GenerateResource.cache
+C:\Users\Dima\Desktop\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.AssemblyInfoInputs.cache
+C:\Users\Dima\Desktop\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.AssemblyInfo.cs
+C:\Users\Dima\Desktop\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.dll
+C:\Users\Dima\Desktop\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.pdb
+C:\Users\Dima\Desktop\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.genruntimeconfig.cache
+C:\4-й семестр\ООП 2-й семестр\OOP-2021Q1-2-master\OOP-2021Q1-2-master\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.exe
+C:\4-й семестр\ООП 2-й семестр\OOP-2021Q1-2-master\OOP-2021Q1-2-master\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.deps.json
+C:\4-й семестр\ООП 2-й семестр\OOP-2021Q1-2-master\OOP-2021Q1-2-master\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.runtimeconfig.json
+C:\4-й семестр\ООП 2-й семестр\OOP-2021Q1-2-master\OOP-2021Q1-2-master\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.runtimeconfig.dev.json
+C:\4-й семестр\ООП 2-й семестр\OOP-2021Q1-2-master\OOP-2021Q1-2-master\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.dll
+C:\4-й семестр\ООП 2-й семестр\OOP-2021Q1-2-master\OOP-2021Q1-2-master\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.pdb
+C:\4-й семестр\ООП 2-й семестр\OOP-2021Q1-2-master\OOP-2021Q1-2-master\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.csproj.AssemblyReference.cache
+C:\4-й семестр\ООП 2-й семестр\OOP-2021Q1-2-master\OOP-2021Q1-2-master\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.Form1.resources
+C:\4-й семестр\ООП 2-й семестр\OOP-2021Q1-2-master\OOP-2021Q1-2-master\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.csproj.GenerateResource.cache
+C:\4-й семестр\ООП 2-й семестр\OOP-2021Q1-2-master\OOP-2021Q1-2-master\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\4-й семестр\ООП 2-й семестр\OOP-2021Q1-2-master\OOP-2021Q1-2-master\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.AssemblyInfoInputs.cache
+C:\4-й семестр\ООП 2-й семестр\OOP-2021Q1-2-master\OOP-2021Q1-2-master\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.AssemblyInfo.cs
+C:\4-й семестр\ООП 2-й семестр\OOP-2021Q1-2-master\OOP-2021Q1-2-master\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.csproj.CoreCompileInputs.cache
+C:\4-й семестр\ООП 2-й семестр\OOP-2021Q1-2-master\OOP-2021Q1-2-master\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.dll
+C:\4-й семестр\ООП 2-й семестр\OOP-2021Q1-2-master\OOP-2021Q1-2-master\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.pdb
+C:\4-й семестр\ООП 2-й семестр\OOP-2021Q1-2-master\OOP-2021Q1-2-master\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.genruntimeconfig.cache
+C:\Users\Mirgorod\Desktop\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.exe
+C:\Users\Mirgorod\Desktop\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.deps.json
+C:\Users\Mirgorod\Desktop\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.runtimeconfig.json
+C:\Users\Mirgorod\Desktop\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.runtimeconfig.dev.json
+C:\Users\Mirgorod\Desktop\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.dll
+C:\Users\Mirgorod\Desktop\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.pdb
+C:\Users\Mirgorod\Desktop\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.csproj.AssemblyReference.cache
+C:\Users\Mirgorod\Desktop\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.Form1.resources
+C:\Users\Mirgorod\Desktop\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.csproj.GenerateResource.cache
+C:\Users\Mirgorod\Desktop\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mirgorod\Desktop\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.AssemblyInfoInputs.cache
+C:\Users\Mirgorod\Desktop\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.AssemblyInfo.cs
+C:\Users\Mirgorod\Desktop\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.csproj.CoreCompileInputs.cache
+C:\Users\Mirgorod\Desktop\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.dll
+C:\Users\Mirgorod\Desktop\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.pdb
+C:\Users\Mirgorod\Desktop\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.genruntimeconfig.cache
+C:\Users\Mirgorod\Desktop\lab2 — копия\lab2\bin\Debug\netcoreapp3.1\lab2.exe
+C:\Users\Mirgorod\Desktop\lab2 — копия\lab2\bin\Debug\netcoreapp3.1\lab2.deps.json
+C:\Users\Mirgorod\Desktop\lab2 — копия\lab2\bin\Debug\netcoreapp3.1\lab2.runtimeconfig.json
+C:\Users\Mirgorod\Desktop\lab2 — копия\lab2\bin\Debug\netcoreapp3.1\lab2.runtimeconfig.dev.json
+C:\Users\Mirgorod\Desktop\lab2 — копия\lab2\bin\Debug\netcoreapp3.1\lab2.dll
+C:\Users\Mirgorod\Desktop\lab2 — копия\lab2\bin\Debug\netcoreapp3.1\lab2.pdb
+C:\Users\Mirgorod\Desktop\lab2 — копия\lab2\obj\Debug\netcoreapp3.1\lab2.csproj.AssemblyReference.cache
+C:\Users\Mirgorod\Desktop\lab2 — копия\lab2\obj\Debug\netcoreapp3.1\lab2.Form1.resources
+C:\Users\Mirgorod\Desktop\lab2 — копия\lab2\obj\Debug\netcoreapp3.1\lab2.csproj.GenerateResource.cache
+C:\Users\Mirgorod\Desktop\lab2 — копия\lab2\obj\Debug\netcoreapp3.1\lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mirgorod\Desktop\lab2 — копия\lab2\obj\Debug\netcoreapp3.1\lab2.AssemblyInfoInputs.cache
+C:\Users\Mirgorod\Desktop\lab2 — копия\lab2\obj\Debug\netcoreapp3.1\lab2.AssemblyInfo.cs
+C:\Users\Mirgorod\Desktop\lab2 — копия\lab2\obj\Debug\netcoreapp3.1\lab2.csproj.CoreCompileInputs.cache
+C:\Users\Mirgorod\Desktop\lab2 — копия\lab2\obj\Debug\netcoreapp3.1\lab2.dll
+C:\Users\Mirgorod\Desktop\lab2 — копия\lab2\obj\Debug\netcoreapp3.1\lab2.pdb
+C:\Users\Mirgorod\Desktop\lab2 — копия\lab2\obj\Debug\netcoreapp3.1\lab2.genruntimeconfig.cache
